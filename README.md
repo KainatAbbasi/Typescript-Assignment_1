@@ -33,6 +33,10 @@ Arithmetic operations
 Array manipulations
 Conditional tests
 And much more! 🌸
+##**Student Details :**
+Name :Kainat Akmal
+Roll Number :
+Class slot :2PM-5PM |Saturday
 
 ##**Acknowledgments 🙌**
 
@@ -40,8 +44,3 @@ Gratitude to my teacher for providing challenging TypeScript exercises. This rep
 Feel free to explore, gain insights, and witness my growth as a developer. ⭐ Your star would be highly appreciated!
 
 Happy exploring and coding! 🌟🔍
-
-
-
-
-
